@@ -1,0 +1,9 @@
+# - * - conding: latin1 - * -
+para num no  intervalo ( 1 , 101 ):
+    if (num == 1 ):
+        print  ' numero ' , num, ' falso '
+        num = num + 1
+    if (num % 2 ! = 0  ou num == 2 ) e (num % 3 ! = 0  ou num == 3 ) e (num % 5 ! = 0  ou num == 5 ) e   (num % 7 ! = 0  ou num == 7 ):
+        print  ' numero ' , num, ' verdadeiro '
+    else :
+         print  ' numero ' , num, ' falso '

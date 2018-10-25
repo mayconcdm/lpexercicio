@@ -1,0 +1,12 @@
+# - * - conding: latin1 - * -
+
+# programa para ler 3 valores para verificar se é um triangulo
+
+a =  input ( ' Inserir o primeiro valor: ' )
+b =  entrada ( ' Insira o segundo valor: ' )
+c =  input ( ' Inserir o terceiro valor: ' )
+
+se (a == b e b == c):
+    print  ' Área do triangulo e de ' , a * b / 2
+else :
+    print  'Na forma um triangulo, os valores introduzidos foram ' , a, ' , ' , b, ' e ' , c

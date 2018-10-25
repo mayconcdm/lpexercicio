@@ -1,0 +1,3 @@
+# - * - conding: latin1 - * -
+frase =  raw_input ( ' uma forma uma frase: ' )
+print frase [:: - 1 ]
